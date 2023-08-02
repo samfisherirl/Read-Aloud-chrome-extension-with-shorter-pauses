@@ -1,6 +1,6 @@
 # Read Aloud Chrome & Edge extension Fork
 
-## Read-Aloud Chrome & Edge extension with shorter, more natural pauses. 
+### Read-Aloud Chrome & Edge extension with shorter, more natural pauses. 
 
 This is a fork from the original and they get all of the credit.  https://github.com/ken107/read-aloud  
 
