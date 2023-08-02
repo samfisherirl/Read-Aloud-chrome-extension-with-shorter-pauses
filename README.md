@@ -10,7 +10,7 @@ This fork has been created to remove the pauses between periods and line breaks 
 
 To upload the extension to Chrome, follow these steps:
 
-0. Unzip the extension to a folder
+0. Unzip the extension to a new folder
 1. Click the "Extension" icon  or Extension settings in your Chrome or Edge browser
 2. Click the "Load Unpacked Extension" button
 3. Navigate to the folder you unpacked to and click upload
